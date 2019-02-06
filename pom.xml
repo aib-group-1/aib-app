@@ -5,8 +5,7 @@
   <artifactId>aib-app</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>aib-app</name>
-  
+  <name>aib-app</name>  
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
